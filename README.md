@@ -22,7 +22,7 @@ What things you need to install the software and how to install them:
 pip install pandas python-pptx Flask PDFKit pandas sepaxml
 ```
 * FEC analysis is [here](https://github.com/silvainfm/Capstone/blob/main/Code/EcritC.ipynb)
-* Powerpoint automation is [here]()
+* Powerpoint automation is [here](https://github.com/silvainfm/Capstone/blob/main/Code/ppt_create.py)
 * SEPA automation is [here](https://github.com/silvainfm/Capstone/blob/main/Code/Sepatest.ipynb)
 * Paystub software is [here](https://github.com/silvainfm/Capstone/blob/main/Code/paycheck.py)
 
