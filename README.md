@@ -26,4 +26,6 @@ pip install pandas python-pptx Flask PDFKit pandas sepaxml
 * SEPA automation is [here](https://github.com/silvainfm/Capstone/blob/main/Code/Sepatest.ipynb)
 * Paystub software is [here](https://github.com/silvainfm/Capstone/blob/main/Code/paycheck.py)
 
+#### Note to user: 
+For obvious privacy and professional reasons I cannot put out the full code and most importantly the data here for some aspects of this project, however the code in this repo should be enough to get you 80% of the way.
 
